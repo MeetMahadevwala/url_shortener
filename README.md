@@ -1,4 +1,4 @@
-# Python URL Shortener Service
+# Python URL Shortener
 
 <!-- 
 A concise and descriptive title is the best way to start.
